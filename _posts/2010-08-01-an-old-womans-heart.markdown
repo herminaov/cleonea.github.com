@@ -9,33 +9,33 @@ Aileana was six years old when she moved with her mother to a little town in Can
 
 As Aileana was growing older she became more and more rebellious. She had many friends, and spent a lot of time with them. Neither one was human. She played with the mischievous whirlwind, ran wildly through the windy fields with river-spirits, danced to the jaunty music of the raindrops.
 
- The quarrels between mother and daughter were sadly common. They didn’t seem to agree in a single matter. Thus they wrangled over chores, rules and keeping promises, Aileana’s friends and later even school. Deirdre couldn’t persuade her to start elementary. She had to hire a private teacher to teach the girl the basic knowledge of writing, reading and counting. Later she studied human history, philosophy, geography, biology and chemistry. In six years Aileana hadn’t find a single friend among the children of Mountville. This troubled Deirdre enormously, thus the subject was often brought up.
+ The quarrels between mother and daughter were sadly common. They didnâ€™t seem to agree in a single matter. Thus they wrangled over chores, rules and keeping promises, Aileanaâ€™s friends and later even school. Deirdre couldnâ€™t persuade her to start elementary. She had to hire a private teacher to teach the girl the basic knowledge of writing, reading and counting. Later she studied human history, philosophy, geography, biology and chemistry. In six years Aileana hadnâ€™t find a single friend among the children of Mountville. This troubled Deirdre enormously, thus the subject was often brought up.
 
-‘Why should I befriend humans? I’m not one of them, they won’t accept me. Can’t you see? They are odd and strange and mean.’ said Aileana one day.
+â€˜Why should I befriend humans? Iâ€™m not one of them, they wonâ€™t accept me. Canâ€™t you see? They are odd and strange and mean.â€™ said Aileana one day.
 
-‘Any the less you must learn to love them, to think of them as your siblings, because they are. And most of all you have to protect them.’ was Deirdre’s answer.
+â€˜Any the less you must learn to love them, to think of them as your siblings, because they are. And most of all you have to protect them.â€™ was Deirdreâ€™s answer.
 
-‘The people I’ve met don’t deserve any of this.’
+â€˜The people Iâ€™ve met donâ€™t deserve any of this.â€™
 
-‘They deserve chance!’
+â€˜They deserve chance!â€™
 
-‘They had a chance!’ Aileana was well aware of the true history, as she would call the genesis of living creatures.
+â€˜They had a chance!â€™ Aileana was well aware of the true history, as she would call the genesis of living creatures.
 
-‘You can’t punish the boy for the father’s mistakes. Until you understand this, you don’t differ from them.’
+â€˜You canâ€™t punish the boy for the fatherâ€™s mistakes. Until you understand this, you donâ€™t differ from them.â€™
 
-‘Don’t say that! I’m different, I’m better. Can they fly like me? Can they walk and talk with spirits like me? Can they understand nature the way I do?’
+â€˜Donâ€™t say that! Iâ€™m different, Iâ€™m better. Can they fly like me? Can they walk and talk with spirits like me? Can they understand nature the way I do?â€™
 
 Deirdre softened her voice.
 
-‘Darling, you are a clever child. Thus you must know, these are not what matter.’
+â€˜Darling, you are a clever child. Thus you must know, these are not what matter.â€™
 
-‘I hate you.’
+â€˜I hate you.â€™
 
 Aileana ran out. Deirdre sat down. She used to talk to her mother's spirit, when she was distressed. Those days she had a lot to say.
 
-‘Mother, I can’t do this anymore. I’m not like you, I don’t have enough patience. She is too difficult.’
+â€˜Mother, I canâ€™t do this anymore. Iâ€™m not like you, I donâ€™t have enough patience. She is too difficult.â€™
 
-Though arguments between them were part of their everyday life, neither of them had gone this far before. Aileana was running until she couldn’t breathe. Then she tossed down, into the high grass and started to cry loudly and hysterically. This was the day she met Aiden. He appeared in front of her in his human form.
+Though arguments between them were part of their everyday life, neither of them had gone this far before. Aileana was running until she couldnâ€™t breathe. Then she tossed down, into the high grass and started to cry loudly and hysterically. This was the day she met Aiden. He appeared in front of her in his human form.
 
 The little girl filled with hatred and bitterness didn't notice that somebody was coming. When she looked up an amazingly beautiful man was standing in front of her. His sparkling hazel eyes flood warmth, his silky smile calmed Aileana's heart. Yet she was still suspicious of him, he was a stranger after all.
 
@@ -69,9 +69,9 @@ She flinched. Aileana was absolute certain that he didn't ask her name. For a fe
 
 He was gazing the ground for a moment without saying a word, then he went on.
 
-‘I asked something!’ she demanded.
+â€˜I asked something!â€™ she demanded.
 
-‘And I can choose not to answer, can’t I?’ was his calm response. But then he turned back. Aiden told Flor and me this story the night before we left the cottage. Before my parting from Deirdre, and I was truly glad for it. It wasn't just another memory of my mother. It also made me feel belong to this family. How utterly unlikely that the sense of connection should find me while leaving the only home I ever knew.
+â€˜And I can choose not to answer, canâ€™t I?â€™ was his calm response. But then he turned back. Aiden told Flor and me this story the night before we left the cottage. Before my parting from Deirdre, and I was truly glad for it. It wasn't just another memory of my mother. It also made me feel belong to this family. How utterly unlikely that the sense of connection should find me while leaving the only home I ever knew.
 
 There were two things left to do, and I decided I would start with the one at hand. It was easy enough to find my grandmother. She was a woman of routine, and I knew her schedule by heart. As expected I found her among her flowers near to the cottage. Unnecessary kindness would make both of us feel out of place, so I tried to keep it simple.
 
