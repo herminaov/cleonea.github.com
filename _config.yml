@@ -6,3 +6,6 @@ server: true
 
 # Exclude some files:
 exclude: CNAME, README.markdown
+
+# Use simple chapter links
+permalink: none
