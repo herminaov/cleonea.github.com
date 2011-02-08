@@ -1,0 +1,17 @@
+---
+layout: base
+---
+
+<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+<div class="hr"></div>
+<blockquote>
+  <span class="date"></span> posted on: <code>{{ page.date | date_to_string }}</code>;
+  <span class="tags"></span> tags: {% for tag in page.tags %}<code>{{ tag }}</code>{% if forloop.last %};{% else %}, {% endif %}{% endfor %}
+</blockquote>
+
+{{ content }}
+
+<div class="comments">
+    <div class="hr"></div>
+    <fb:comments></fb:comments>
+</div>

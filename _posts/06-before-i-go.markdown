@@ -1,5 +1,6 @@
-Before I go
------------
+---
+title: Before I go
+---
 
 That glorious moment passed quickly, too quickly even. Fear tried to fill it's place, but this wasn't the time to let that happen. I had to say goodbye to Oak Hollow. This urging feeling occupied my every thought. I knew that my wish was impossible, and yet hope tainted my heart. Father Pike, I needed his naive words now more than ever, about how would I become worth for anything. I hoped I would find something that engraves those thoughts in my mind, and then even I could believe them. Well, I found nothing of the sort.
 

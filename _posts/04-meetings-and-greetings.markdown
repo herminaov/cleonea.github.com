@@ -1,5 +1,6 @@
-Meetings and greetings
-----------------------
+---
+title: Meetings and greetings
+---
 
  When we got back Deirdre was leaving with an empty basket. She seemed to be off a longer time, which was weird, but I was too confused to give it much thought. Not Gwendal was so indulgent. He didn’t speak, but the face he pulled was enough for Deirdre to answer cheerfully.
 

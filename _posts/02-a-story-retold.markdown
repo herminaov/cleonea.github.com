@@ -1,5 +1,6 @@
-A story retold
---------------
+---
+title: A story retold
+---
 
 Deirdre’s cottage was like an old magic hat, it definitely seemed to be less than it was. It laid beside the woods, in the middle of a vale named Milfoil Lap. Nearby was a small village, even so the vale was charming and charmed too, its inhabitant was far not. That is why the villagers used to shun the place. This proved to become quite useful nowadays. I had never seen that coming, after all I never preferred solitude. And still, since I've finished elementary school I was often alone.
 
