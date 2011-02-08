@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Meetings and greetings
 ---
 
