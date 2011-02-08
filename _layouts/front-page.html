@@ -3,6 +3,8 @@ layout: base
 ---
 
 <div id="previews">
-‘From the very beginning of time the enchanting secrets were inherited from mother to daughter. Long ago every woman possessed the skills that were maintaining the bond between humans and the Gods of Nature. They could talk with animals, and together with the Sylphs were giving heed to the balance between livings and gods, life and death. But the men had become jealous, and left the forests. After that, many women turned away from ancient arts and went along with men. Their punishment was to forget all their talents. Only one remained, the power of giving life. The Gods had become angry and cursed every women, even the faithful ones, so they suffer every time they bring a new life to the Earth, as the Sylphs suffered before dying when harmony turned into chaos.’
-{% for post in site.posts %}{{ post.title }}{% endfor %}
+<blockquote>From the very beginning of time the enchanting secrets were inherited from mother to daughter. Long ago every woman possessed the skills that were maintaining the bond between humans and the Gods of Nature. They could talk with animals, and together with the Sylphs were giving heed to the balance between livings and gods, life and death. But the men had become jealous, and left the forests. After that, many women turned away from ancient arts and went along with men. Their punishment was to forget all their talents. Only one remained, the power of giving life. The Gods had become angry and cursed every women, even the faithful ones, so they suffer every time they bring a new life to the Earth, as the Sylphs suffered before dying when harmony turned into chaos.</blockquote>
+<ul>
+  {% for post in site.posts %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+</ul>
 </div>
