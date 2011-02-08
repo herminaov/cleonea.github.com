@@ -5,4 +5,4 @@ auto: true
 server: true
 
 # Exclude some files:
-exclude: CNAME, README.rst
+exclude: CNAME, README.markdown
