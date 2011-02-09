@@ -2,7 +2,9 @@
 layout: base
 ---
 
-<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-<div class="hr"></div>
-
-{{ content }}
+<div class="post">
+	<h2 class="title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
+	<div class="story">
+		{{ content }}
+	</div>
+</div>
