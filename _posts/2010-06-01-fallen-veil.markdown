@@ -73,12 +73,9 @@ This speech calmed my rage. At first I hesitated, for there must be some unpleas
 
 ‘No! Stop saying that! It's not true! It can’t be! There is nothing, do you hear me? Nothing at all! Or else I would have found it already! I’m fifteen, it’s too late! If mother was here she would be ashamed of me, and so am I.’ as I was talking my eyes started to flow. Despair painted my face red, I wanted to run away from him, from those I was yet to meet and from the disappointed looks of the loved ones. He looked in my eyes, teased by sorrow. My tears were falling, but never reaching the ground. The wind was blowing around us stronger and stronger, to whoosh and to whizz like a smashing pain of a screaming child. Gwendal needed some time to realize, that I almost brought a hurricane into being, unconsciously. He caught my left hand, pressed me stoutly to his breast, and whispered into my ears.
 
-*‘Strength of day,
-
-Strength of night,
-
-Give me strength
-
+*‘Strength of day,<br/>
+Strength of night,<br/>
+Give me strength<br/>
 Beyond my sight.’*
 
 All of a sudden the wind stopped, and I looked at him.
