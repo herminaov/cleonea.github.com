@@ -3,11 +3,11 @@ layout: post
 title: Meetings and greetings
 ---
 
- When we got back Deirdre was leaving with an empty basket. She seemed to be off a longer time, which was weird, but I was too confused to give it much thought. Not Gwendal was so indulgent. He didn’t speak, but the face he pulled was enough for Deirdre to answer cheerfully.
+ When we got back Deirdre was leaving carrying an empty basket. She seemed to be off a longer time, which was weird, but I was too confused to give it much thought. Gwendal didn’t speak either, but the face he pulled was enough for Deirdre to answer cheerfully.
 
 ‘Dear my! Gwendal, why are you so surprised? A beautiful place like this can provide much more than privacy. Today it is not upon me to play the host.’
 
-This was just the wake up call I needed. I went inside to put on some of the drinkable teas. He came after me.
+This was just the wake up call I needed. I went inside to put on some of the teas I almost liked. He came after me.
 ‘Are you nervous? You shouldn’t be. They are tolerable, once you get to know them.’
 
 ‘I suppose so.’ but I wasn’t really listening to him.
@@ -15,15 +15,15 @@ He must have realized it. We didn’t speak till the girls finally arrived comin
 
 ‘It’s so nice to finally meet you. I’m Florianne, but you can call me Flor. We’re going to be great friends.’
 
-‘Florianne! Don’t be such a child!’ And she was Cathleen. Her voice was cold and formal.
+‘Florianne! Don’t be such a child!’ That was Cathleen. Her voice was cold and formal.
 
 ‘I am Cathleen Bayoumi, princess of Bast Su.’
 
-Again astonished, though I had no idea where that place was. I couldn’t believe nobody dropped a syllable about this. Maybe Aiden didn’t want to make me feel uneasy. But what was Gwendal’s excuse? Cathleen’s beauty and grace increased my fear. I couldn’t speak.
+Again astonished, though I had no idea where that place was. I couldn’t believe nobody dropped a syllable about this. Maybe Aiden didn’t want to make me feel uneasy. But what was Gwendal’s excuse? Cathleen’s beauty and grace intensified my fear. I couldn’t speak.
 
 ‘Don’t just stay there. You should at least introduce yourself. Why are you staring at us? What a disappointment.’
 
-‘Cathy, cut it out! Don’t be rude with her!’ said Flor smiling, which was odd considering her words. One thing was for sure, these three had know each other for a long time.
+‘Cathy, cut it out! Don’t be rude with her!’ said Flor smiling, which was odd considering her words. One thing was for sure, these three had known each other for a long time.
 
 ‘Don’t call me like that! My name is Cathleen!’
 
@@ -34,11 +34,11 @@ I had a strong feeling of déjà vu. I shut my eyes to say:
 
 ‘If only you had known it before she told you.’ said Gwendal coming out from the cottage ‘Do not praise her, she’s already spoiled enough. Where are Aiden and the others?’
 
-How many of them there is?
+How many of them are there?
 
-‘Hawke! I understand you were quite in a hurry to arrive here before us. I wonder why. Besides, aren’t you the smart one? Or did you stop spying on everyone? Don’t worry, they’ll be here soon.’ Flor suddenly took my hand.
+‘Hawke! I understand you were quite in a hurry to arrive here before us. I wonder why. Besides, don’t you the smart one? Or did you stop spying on everyone? Don’t worry, they’ll be here soon.’ Flor suddenly took my hand.
 
-‘Come, let us go inside. This can last for a while. Believe me, I know what I’m talking about, aren’t I? said she turning to the other two.
+‘Come, let us go inside. This could last for a while. Believe me, I know what I’m talking about, aren’t I? said she turning to the other two.
 
 ‘Shouldn’t we wait for Aiden here?’ I sighed.
 
@@ -48,21 +48,21 @@ How many of them there is?
 
 They followed us inside after a little while. Florianne was eating the onion soup we had made the day before. She was the one, who broke the silence.
 
-‘Sonya, do you want to know how did we get here? It’s an awesome story, you’ll see.’
+‘Sonya, do you want to know how we got here? It’s an awesome story, you’ll see.’
 
-‘You seem to be proud of yourself’ said Cathleen ‘How careless of you. There won’t be always someone to save you. You rely too much on others.’
+‘You seem to be proud of yourself’ said Cathleen ‘How careless of you. There won’t always be someone to save you. You rely too much on others.’
 
 ‘All right, all right. But it doesn’t make the story any worse.’
 
 ‘I really would like to hear it’ I said to end the quarrel.
 
-‘Hurray! Then I’ll tell it! My father is a pilot, you know. And I’ve never had problems with height. Papa used to take me with him to check the animals in the National Park he works for. He brought me and Cathleen here, but I wanted to walk the last few hundred meters. So I jumped out, naturally without any parachutes. Vixi can carry me, and Uvidia also can Cathleen. They put us down and went to the place where we should have landed to meet Aiden, and they will come back together. They should be here any time now.’
+‘Hurray! Then I’ll tell it! My father is a pilot, you know. And I’ve never had problems with height. Papa used to take me with him to check the animals in the National Park he works for. He brought me and Cathleen here, but I wanted to walk the last few hundred meters. So I jumped out, naturally without a parachute. Vixi can carry me, and Uvidia can carry Cathleen. They put us down and went to the place where we should have landed to meet Aiden, and they would come back together. They should be here any time now.’
 
 ‘Uvidia and Vixi? Who are they?’ My half-witted question.
 
 ‘Don’t you get anything? They are our Mercury Demons, of course.’
 
-‘Cathleen, you spoilt child! You are free to go home at any time! You are not wanted here, unless you behave yourself!’
+‘Cathleen, you spoilt child! You are free to go home at any time! You are not wanted here, unless you behave!’
 
 The voice was coming from outside, soon the source arrived as well. It was Deirdre, who just came back with a full basket of flowers.
 
@@ -95,11 +95,11 @@ She did believe me, or so it seemed.
 
 ‘Will she be all right?’ was my question.
 
-‘She always is. But aren’t you curious why did I wanted to walk here?’
+‘She always is. But aren’t you curious why I wanted to walk here?’
 
 Flor probably wanted to cheer me up, so she took my hand and went out with me straight to the forest, in the exact opposite way I presumed the other two.
 
-‘Cathleen is a good person, you’ll see. She just needs some patience.’
+‘Cathleen is a good person, you’ll see. You just need to be patient with her.’
 
 ‘But how come Gwendal went after her? I thought they didn’t like each other.’
 
@@ -107,7 +107,7 @@ Flor probably wanted to cheer me up, so she took my hand and went out with me st
 
 ‘And what about their fathers? Are they dead as mine?’
 
-‘Nobody can tell. It’s really hard for humans to understand us. Either Ebony and Scarlet have been left or they left the fellows. You see father doesn’t know who I am. Mother tried to tell him once. She had said she wouldn’t stop him if he wanted to go. But then father embraced her, and told her if it would make him want to leave than he doesn’t want to hear it. So, all he knows that I’m special in some way. You can guess how hard it was to hide my abilities.’
+‘Nobody can tell. It’s really hard for humans to understand us. Either Ebony and Scarlet have been left or they left the fellows. You see father doesn’t know who I am. Mother tried to tell him once. She had said she wouldn’t stop him if he wanted to go. But then father embraced her, and told her if it would make him want to leave than he doesn’t want to hear it. So, all he knows is that I’m special in some way. You can guess how hard it was to hide my abilities.’
 
 I was confused at this point.
 
@@ -115,7 +115,7 @@ I was confused at this point.
 
 ‘Yes, I’ve figured out that much.’
 
-‘The reason we can do so is because every one of us possesses a spirit of an element. You are the first one, the air. Then comes the water, the fire, the earth, and the life. That is the order how our ancestress’ received their spirits. Funny, that the first one, Equilibrea, was the youngest. And this is the order how the new generations’ powers appear, except that Earth babies have abilities from the beginning. Until I reach 15 I can create life and make it grow without any learning. I’m talking about herbs, of course. You see, for herbs earth means life, but Earth needs them as much. When I was little I used to make grow everything around me, and mother had to kill them before father noticed it.’
+‘The reason we can do so is because every one of us possesses a spirit of an element. You are the first one, the air. Then comes the water, the fire, the earth, and the life. That is the order how our ancestors received their spirits. Funny, that the first one, Equilibrea, was the youngest. And this is the order how the new generations’ powers appear, except that Earth babies have abilities from the beginning. Until I reach 15 I can create life and make it grow without any learning. I’m talking about herbs, of course. You see, for herbs earth means life, but Earth needs them as much. When I was little I used to make everything grow around me, and mother had to kill them before father noticed it.’
 
 ‘It must have been tough.’
 
@@ -146,15 +146,15 @@ The voice came from above us, and a young woman jumped down from a tree. She was
 
 But I wasn’t. I was thinking about Gwendal’s request, it was certain that I had to be more careful if I wanted to keep their secret. When they arrived everyone was already there sitting at the table in the kitchen, even Gwendal and Cathleen. There were two more empty chairs for Flor and me. As we took them Aiden started to speak.
 
-'My dear friends, I called everyone here to inform you about a sad event and its consequences. Yesterday an old friend passed away. Father Pike, the spirit of Silver Stream left the watercourse. It is absolutely certain, Sonya and I saw the Mourners. Oak Hollow by now is completely dead. Unfortunately neither Deirdre, nor I could find out who is responsible for this. Last time, when they had found Florianne a note was left, as some of you already know. I haven't found anything of the sort now, which means it could be a random attack. But it is not likely.'
+'My dear friends, I called everyone here to inform you about a sad event and its consequences. Yesterday an old friend passed away. Father Pike, the spirit of Silver Stream left the watercourse. It is absolutely certain, Sonya and I saw the Mourners. Oak Hollow is completely dead by now. Unfortunately neither Deirdre, nor I could find out who was responsible for this. The last time, when they found Florianne a note was left, as some of you already know. I haven't found anything of the sort now, which means it could be a random attack. But it is not likely.'
 
 'Do you suspect that Arabella and Raven are behind this?' asked Laura.
 
-'Not necessarily, they could have been some troublemakers. Nevertheless, there is but a little chance, that they haven't seen Sonya. Her source can hardly be missed, even for those who can't sense such energy. I think the news already reached the twins. This means we must be on our way as soon as possible. That is why I chose Scarlet's mansion in New Zealand.'
+'Not necessarily, they could have been some troublemakers. Nevertheless, there is a little chance, that they haven't seen Sonya. Her source can hardly be missed, even for those who can't sense such energy. I think the news already reached the twins. This means we must be on our way as soon as possible. That is why I chose Scarlet's mansion in New Zealand.'
 
 'How are we going to get there? Where are we anyway?'
 
-'We are in the Eastern part of Europe, Cathleen. The country would be Romania.' was Uvidia's immediate answer 'Now, will you let Aiden finish his speech?'
+'We are in the Eastern part of Europe, Cathleen. The country is Romania.' was Uvidia's immediate answer 'Now, will you let Aiden finish his speech?'
 
 The air was uneasy again. I couldn't stop thinking how lucky I was with Aiden. Though he was sometimes bothering, he never could possibly reach Uvidia neither in severeness nor in harshness. Nobody seemed to care to end the unpleasant situation. At one point I thought that I was the only one who was bothered by Uvidia's education. Even if that was so, I didn't want to learn to bear watching a friend being tormented.
 
@@ -174,7 +174,7 @@ I realized that the two of us suddenly became the center of attention. As if eve
 
 'It is, but I couldn't think of anything better. Let's hear your thoughts, Gwendal.'
 
-'It could work. Though Cathleen and I have to be careful, and not for just our sake. It would be obvious that travelling alone like that, we are trying to cover something.'
+'It could work. Though Cathleen and I have to be careful, and not just for our sake. It would be obvious that travelling alone like that, we are trying to cover something.'
 
 'Exactly.' said Aiden 'We are leaving tomorrow. But I would suggest that you two go immediately.'
 
