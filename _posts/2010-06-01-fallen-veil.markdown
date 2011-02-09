@@ -77,10 +77,10 @@ This speech calmed my rage. At first I hesitated, for there must be some unpleas
 
 All of a sudden the wind stopped, and I looked at him.
 
-<‘Strength of day,
+*‘Strength of day,
 Strength of night,
 Give me strength
-Beyond my sight.’>
+Beyond my sight.’*
 
 ‘You must have. This was what your mother said to me, when we met once.’
 
