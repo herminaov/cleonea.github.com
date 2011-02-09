@@ -48,7 +48,6 @@ blockquote {
 }
 
 a {
-	background: url(/media/images/skin/img03.gif) repeat-x left bottom;
 	text-decoration: none;
 	color: #468259;
 }
@@ -130,6 +129,10 @@ a:hover {
 	font-size: 30px;
 }
 
+#header h1 a {
+	text-decoration: none;
+}
+
 #header h2 {
 	float: right;
 	width: 494px;
@@ -164,17 +167,6 @@ a:hover {
 #posts .story {
 	padding: 15px 20px 0 20px;
 	background: url(/media/images/skin/img10.gif) repeat-x
-}
-
-#posts .meta {
-	padding: 5px 0 0 20px;
-	background: url(/media/images/skin/img03.gif) repeat-x;
-}
-
-#posts .meta p {
-	margin: 0;
-	line-height: normal;
-	font-size: smaller;
 }
 
 #posts ul {
