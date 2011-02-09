@@ -80,7 +80,7 @@ Beyond my sight.’*
 
 All of a sudden the wind stopped, and I looked at him.
 
-‘What did you just say? I think I�d heard it before.’
+‘What did you just say? I think I’d heard it before.’
 
 ‘You must have. This was what your mother said to me, when we met once.’
 
