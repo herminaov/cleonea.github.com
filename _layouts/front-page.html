@@ -3,17 +3,20 @@ layout: base
 ---
 
 <div class="post">
-	<h2 class="title">{{ page.title }}</h2>
-	<div class="story">
-		<p>From the very beginning of time the enchanting secrets were inherited from mother to daughter. Long ago every woman possessed the skills that were maintaining the bond between humans and the Gods of Nature. They could talk with animals, and together with the Sylphs were giving heed to the balance between livings and gods, life and death. But the men had become jealous, and left the forests. After that, many women turned away from ancient arts and went along with men. Their punishment was to forget all their talents. Only one remained, the power of giving life. The Gods had become angry and cursed every women, even the faithful ones, so they suffer every time they bring a new life to the Earth, as the Sylphs suffered before dying when harmony turned into chaos.</p>
-	</div>
+  <h2 class="title">{{ page.title }}</h2>
+  <div class="story">
+    <p>I had never given much thought to how would my life end. Death was my companion for a long time, a common experience. I took granted that every day could be my last, yet I had no idea what would count as a good way to go. I knew very well how it felt to be left over and over again, but I had never imagined myself leaving.</p>
+    <p>Then, one day, me and my fate bumped into each other. I wasn’t warned, wasn’t given a chance to say my goodbyes, wasn’t even allowed to remember. My life, as I knew it, faded into thin air. Which is funny, for air used to be paramount.</p>
+    <p>Was it a good way to go? No. Was it a way at all? Not even.</p>
+    <p>Now, there is only one question to be answered. Had you find your life, your everything taken away, would you dare to start it all over again?</p>
+  </div>
 </div>
 
 <div class="post">
-	<h2 class="title">Chapters</h2>
-	<div class="story">
-		<ul>
-			{% for post in site.posts reversed %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
-		</ul>
-	</div>
+  <h2 class="title">Chapters</h2>
+  <div class="story">
+    <ul>
+      {% for post in site.posts reversed %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+    </ul>
+  </div>
 </div>
