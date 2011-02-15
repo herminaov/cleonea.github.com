@@ -239,3 +239,9 @@ a:hover {
 	letter-spacing: -1px;
 	font-size: 24px;
 }
+
+/* Custom separator */
+
+.center {
+	text-align: center;
+}
