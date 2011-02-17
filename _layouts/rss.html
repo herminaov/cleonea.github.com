@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My rather adventurous lives</title>
+    <link>http://www.rather-adventurous.com</link>
+    <description>My novel's very own site.</description>
+    <language>en-us</language>
+    {% for post in site.posts limit:1 %}<lastBuildDate>{{ post.date | date:"%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>{% endfor %}
+    <atom:link href="http://feeds.feedburner.com/rather-adventurous" rel="self" type="application/rss+xml"/>{% for post in site.posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>http://www.rather-adventurous.com{{ post.url }}</link>
+      <description>{{ post.content | xml_escape }}</description>
+      <pubDate>{{ post.date | date:"%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <guid>http://www.rather-adventurous.com{{ post.url }}</guid>
+    </item>{% endfor %}
+  </channel>
+</rss>
