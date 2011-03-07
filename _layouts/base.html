@@ -1,78 +1,77 @@
 <!doctype html>
 <html>
-<head>
-<meta charset="utf-8" />
-<title>{{ page.title }}</title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
-<link href="/media/css/main.css" rel="stylesheet" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="My rather adventurous lives" href="http://feeds.feedburner.com/rather-adventurous"/>
-<script type="text/javascript">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }}</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <link href="/media/css/main.css" rel="stylesheet" type="text/css" />
+    <link rel="alternate" type="application/rss+xml" title="My rather adventurous lives" href="http://feeds.feedburner.com/rather-adventurous"/>
+    <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-7227868-2']);
-  _gaq.push(['_trackPageview']);
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-7227868-2']);
+      _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+      (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
 
-</script>
-</head>
-<body>
-<div id="header">
-	<h1><a href="/">My&nbsp;rather adventurous lives</a></h1>
-	<h2>by Cleonea</h2>
-</div>
-<div id="wrapper">
-	<div id="content">
-		<div id="posts">
-			{{ content }}
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'ratheradventurous'; // required: replace example with your forum shortname
+     </script>
+  </head>
+  <body>
+    <div id="header">
+      <h1><a href="/">My&nbsp;rather adventurous lives</a></h1>
+      <h2>by Cleonea</h2>
+    </div>
+    <div id="wrapper">
+      <div id="content">
+        <div id="posts">
+          {{ content }}
+          <div id="disqus_thread"></div>
+          <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'ratheradventurous'; // required: replace example with your forum shortname
 
-    // The following are highly recommended additional parameters. Remove the slashes in front to use.
-    var disqus_identifier = 'cleonea';
-    var disqus_url = 'http://www.rather-adventurous.com{{ page.url }}';
+            // The following are highly recommended additional parameters. Remove the slashes in front to use.
+            var disqus_identifier = 'cleonea';
+            var disqus_url = 'http://www.rather-adventurous.com{{ page.url }}';
 
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-		</div>
-		<div id="links">
-			<ul>
-				<li>
-					<h2>Chapters</h2>
-						<ul>
-							{% for post in site.posts reversed %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
-						</ul>
-				</li>
-				<li>
-					<h2>On the web</h2>
-					<ul>
-						<li><a href="http://stories.missliterati.com/stories/4d4567448b9dc527c300000c">MissLiterati</a></li>
-					</ul>
-				</li>
-				<p><a href="http://feeds.feedburner.com/rather-adventurous" rel="alternate" type="application/rss+xml"><img src="/media/images/skin/rssbutton.png" alt="" style="vertical-align:middle;border:0"/></a>&nbsp;<a href="http://feeds.feedburner.com/rather-adventurous" rel="alternate" type="application/rss+xml">Subscribe in a reader</a></p>
-			</ul>
-		</div>
-		<div style="clear: both;">&nbsp;</div>
-	</div>
-</div>
-<div id="footer">
-	<p id="brand">My rather adventurous lives</p>
-	<p id="legal">Licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">Creative Commons Attribution 3.0 Unported License</a>.<br/>
-	Designed by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a></p>
-</div>
-</body>
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+          </script>
+          <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+        </div>
+        <div id="links">
+          <ul>
+            <li>
+              <h2>Chapters</h2>
+                <ul>
+                  {% for post in site.posts reversed %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}
+                </ul>
+            </li>
+            <li>
+              <h2>On the web</h2>
+              <ul>
+                <li><a href="http://stories.missliterati.com/stories/4d4567448b9dc527c300000c">MissLiterati</a></li>
+              </ul>
+            </li>
+            <p><a href="http://feeds.feedburner.com/rather-adventurous" rel="alternate" type="application/rss+xml"><img src="/media/images/skin/rssbutton.png" alt="" style="vertical-align:middle;border:0"/></a>&nbsp;<a href="http://feeds.feedburner.com/rather-adventurous" rel="alternate" type="application/rss+xml">Subscribe in a reader</a></p>
+          </ul>
+        </div>
+        <div style="clear: both;">&nbsp;</div>
+      </div>
+    </div>
+    <div id="footer">
+      <p id="brand">My rather adventurous lives</p>
+      <p id="legal">Licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">Creative Commons Attribution 3.0 Unported License</a><br/>
+      Designed by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a></p>
+    </div>
+  </body>
 </html>
